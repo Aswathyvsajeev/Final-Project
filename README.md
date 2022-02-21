@@ -9,6 +9,7 @@ a result increase their business profit . This project use a large dataset,rossm
 This project aims to answer the below research problems:
 
 • Which is the most suitable traditional time series model based on the characteristic of the dataset ?
+
 • Is Facebook Prophet model more efficient in forecasting future sales compared to traditional time series model ?
 Below are the objectives created to answer first research problem :
 
