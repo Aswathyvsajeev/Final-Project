@@ -7,6 +7,7 @@ This project aims to build an efficient forecasting model that is easy to interp
 a result increase their business profit . This project use a large dataset,rossman drug store dataset collected from kaggle ,https://www.kaggle.com/c/rossmann-store-sales/data?select=train.csv
 
 This project aims to answer the below research problems:
+
 • Which is the most suitable traditional time series model based on the characteristic of the dataset ?
 • Is Facebook Prophet model more efficient in forecasting future sales compared to traditional time series model ?
 Below are the objectives created to answer first research problem :
